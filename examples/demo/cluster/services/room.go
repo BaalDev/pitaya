@@ -5,10 +5,10 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/topfreegames/pitaya/v2"
-	"github.com/topfreegames/pitaya/v2/component"
-	"github.com/topfreegames/pitaya/v2/examples/demo/protos"
-	"github.com/topfreegames/pitaya/v2/timer"
+	"github.com/BaalDev/pitaya/v2"
+	"github.com/BaalDev/pitaya/v2/component"
+	"github.com/BaalDev/pitaya/v2/examples/demo/protos"
+	"github.com/BaalDev/pitaya/v2/timer"
 )
 
 type (

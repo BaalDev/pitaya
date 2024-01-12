@@ -6,7 +6,7 @@ A REPL cli client made in go for pitaya.
 ## Installing
 
 ```
-go install github.com/topfreegames/pitaya/v2/pitaya-cli
+go install github.com/BaalDev/pitaya/v2/pitaya-cli
 ```
 
 ## Usage
@@ -44,8 +44,8 @@ a short example of both routes:
 import (
 	// ...
 
-	"github.com/topfreegames/pitaya"
-	"github.com/topfreegames/pitaya/protos"
+	"github.com/BaalDev/pitaya"
+	"github.com/BaalDev/pitaya/protos"
 )
 
 // Docs handler

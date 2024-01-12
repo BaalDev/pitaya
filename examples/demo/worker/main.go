@@ -7,11 +7,11 @@ import (
 	"strings"
 
 	"github.com/spf13/viper"
-	"github.com/topfreegames/pitaya/v2"
-	"github.com/topfreegames/pitaya/v2/acceptor"
-	"github.com/topfreegames/pitaya/v2/component"
-	"github.com/topfreegames/pitaya/v2/config"
-	"github.com/topfreegames/pitaya/v2/examples/demo/worker/services"
+	"github.com/BaalDev/pitaya/v2"
+	"github.com/BaalDev/pitaya/v2/acceptor"
+	"github.com/BaalDev/pitaya/v2/component"
+	"github.com/BaalDev/pitaya/v2/config"
+	"github.com/BaalDev/pitaya/v2/examples/demo/worker/services"
 )
 
 var app pitaya.Pitaya

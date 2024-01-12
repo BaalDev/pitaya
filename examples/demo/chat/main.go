@@ -10,13 +10,13 @@ import (
 
 	"strings"
 
-	"github.com/topfreegames/pitaya/v2"
-	"github.com/topfreegames/pitaya/v2/acceptor"
-	"github.com/topfreegames/pitaya/v2/component"
-	"github.com/topfreegames/pitaya/v2/config"
-	"github.com/topfreegames/pitaya/v2/groups"
-	"github.com/topfreegames/pitaya/v2/logger"
-	"github.com/topfreegames/pitaya/v2/timer"
+	"github.com/BaalDev/pitaya/v2"
+	"github.com/BaalDev/pitaya/v2/acceptor"
+	"github.com/BaalDev/pitaya/v2/component"
+	"github.com/BaalDev/pitaya/v2/config"
+	"github.com/BaalDev/pitaya/v2/groups"
+	"github.com/BaalDev/pitaya/v2/logger"
+	"github.com/BaalDev/pitaya/v2/timer"
 )
 
 type (

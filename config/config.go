@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"github.com/topfreegames/pitaya/v2/metrics/models"
+	"github.com/BaalDev/pitaya/v2/metrics/models"
 )
 
 // PitayaConfig provides configuration for a pitaya app
