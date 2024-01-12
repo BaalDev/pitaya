@@ -4,10 +4,10 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/topfreegames/pitaya/v2/logger"
-	"github.com/topfreegames/pitaya/v2/metrics"
+	"github.com/BaalDev/pitaya/v2/logger"
+	"github.com/BaalDev/pitaya/v2/metrics"
 
-	workers "github.com/topfreegames/go-workers"
+	workers "github.com/BaalDev/go-workers"
 )
 
 // Report sends periodic of worker reports

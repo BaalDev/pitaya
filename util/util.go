@@ -31,17 +31,17 @@ import (
 
 	"github.com/nats-io/nuid"
 
-	"github.com/topfreegames/pitaya/v2/conn/message"
-	"github.com/topfreegames/pitaya/v2/constants"
-	pcontext "github.com/topfreegames/pitaya/v2/context"
-	e "github.com/topfreegames/pitaya/v2/errors"
-	"github.com/topfreegames/pitaya/v2/logger"
-	"github.com/topfreegames/pitaya/v2/logger/interfaces"
-	"github.com/topfreegames/pitaya/v2/protos"
-	"github.com/topfreegames/pitaya/v2/serialize"
-	"github.com/topfreegames/pitaya/v2/serialize/json"
-	"github.com/topfreegames/pitaya/v2/serialize/protobuf"
-	"github.com/topfreegames/pitaya/v2/tracing"
+	"github.com/BaalDev/pitaya/v2/conn/message"
+	"github.com/BaalDev/pitaya/v2/constants"
+	pcontext "github.com/BaalDev/pitaya/v2/context"
+	e "github.com/BaalDev/pitaya/v2/errors"
+	"github.com/BaalDev/pitaya/v2/logger"
+	"github.com/BaalDev/pitaya/v2/logger/interfaces"
+	"github.com/BaalDev/pitaya/v2/protos"
+	"github.com/BaalDev/pitaya/v2/serialize"
+	"github.com/BaalDev/pitaya/v2/serialize/json"
+	"github.com/BaalDev/pitaya/v2/serialize/protobuf"
+	"github.com/BaalDev/pitaya/v2/tracing"
 
 	opentracing "github.com/opentracing/opentracing-go"
 )

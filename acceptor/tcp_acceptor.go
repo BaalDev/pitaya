@@ -29,9 +29,9 @@ import (
 	// _ "errors"
 
 	"github.com/mailgun/proxyproto"
-	"github.com/topfreegames/pitaya/v2/conn/codec"
-	"github.com/topfreegames/pitaya/v2/constants"
-	"github.com/topfreegames/pitaya/v2/logger"
+	"github.com/BaalDev/pitaya/v2/conn/codec"
+	"github.com/BaalDev/pitaya/v2/constants"
+	"github.com/BaalDev/pitaya/v2/logger"
 )
 
 // TCPAcceptor struct

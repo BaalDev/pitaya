@@ -26,8 +26,8 @@ import (
 	// "runtime"
 
 	"github.com/sirupsen/logrus"
-	"github.com/topfreegames/pitaya/v2/logger/interfaces"
-	logruswrapper "github.com/topfreegames/pitaya/v2/logger/logrus"
+	"github.com/BaalDev/pitaya/v2/logger/interfaces"
+	logruswrapper "github.com/BaalDev/pitaya/v2/logger/logrus"
 )
 
 // Log is the default logger
