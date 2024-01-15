@@ -7,7 +7,7 @@ import (
 	"github.com/BaalDev/pitaya/v2/logger"
 	"github.com/BaalDev/pitaya/v2/metrics"
 
-	workers "github.com/BaalDev/go-workers"
+	workers "github.com/topfreegames/go-workers"
 )
 
 // Report sends periodic of worker reports

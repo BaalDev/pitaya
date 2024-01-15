@@ -25,12 +25,12 @@ import (
 	"encoding/json"
 	"os"
 
-	"github.com/golang/protobuf/proto"
-	workers "github.com/BaalDev/go-workers"
 	"github.com/BaalDev/pitaya/v2/config"
 	"github.com/BaalDev/pitaya/v2/constants"
 	"github.com/BaalDev/pitaya/v2/logger"
 	"github.com/BaalDev/pitaya/v2/logger/interfaces"
+	"github.com/golang/protobuf/proto"
+	workers "github.com/topfreegames/go-workers"
 )
 
 // Worker executes RPCs with retry and backoff time
